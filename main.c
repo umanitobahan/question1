@@ -1,3 +1,16 @@
+//-----------------------------------------
+//NAME: Liu Han
+//STUDENT NUMBER: 7694437
+//COURSE: COMP 2160, SECTION: A01
+//INSTRUCTOR: Franklin Bristow
+//ASSIGNMENT: assignment 3, question 1
+//
+// REMARKS: Test insert, search, delete, firstItem, nextItem methods in table
+//
+//-----------------------------------------
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
